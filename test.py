@@ -1,8 +1,5 @@
 
 import json
-from unicodedata import name
-
-import json
 
 def top_retweeted():
     
